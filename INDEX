@@ -1,0 +1,6 @@
+.crawford.CI            Confidence Intervals based on a non-central t
+                        distribution
+DiffTest                Difference between patient's scores on two
+                        tasks
+SingleTest              Single score comparison
+singlecase-package      Single-case inferential methods

@@ -1,0 +1,12 @@
+2008-05-07
+----------
+
+Version 0.1: first version of the package
+Four functions are currently implemented: crawford.t.test, crawford.diff.test, Single Bayes and DiffBayes
+They refer to the following publications by Crawford, Garthwaite and colleagues: 
+
+Crawford, J. R., & Garthwaite, P. H. (2002). Investigation of the single case in neuropsychology: Confidence limits on the abnormality of test scores and test score differences. Neuropsychologia, 40(8), 1196–208. 
+Crawford, J. R., & Garthwaite, P. H. (2005). Testing for suspected impairments and dissociations in single-case studies in neuropsychology: Evaluation of alternatives using Monte Carlo simulations and revised tests for dissociations. Neuropsychology, 19(3), 318–31. 
+Crawford, J. R., & Garthwaite, P. H. (2007). Comparison of a single case to a control or normative sample in neuropsychology: Development of a bayesian approach. Cognitive Neuropsychology, 24(4), 343–372. 
+Crawford, J. R., & Howell, D. C. (1998). Comparing an individual’s test score against norms drived from small samples. The Clinical Neuropsychologist, 12(4), 482–486. 
+Crawford, J. R., Howell, D. C., & Garthwaite, P. H. (1998). Payne and Jones revisited: Estimating the abnormality of test score differences using a modified paired samples t test. Journal of Clinical and Experimental Neuropsychology, 20(6), 898–905.

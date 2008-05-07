@@ -1,0 +1,10 @@
+citHeader("To cite the singlecase package in publications use:") 
+citEntry(entry="Article", 
+	title = "Singlecase: A package for single case statistics in neuropsychology", 
+	author = personList(as.person("M. Dubois")),
+	year = 2008, 
+	note = "Software: R Package, singlecase, version 0.1", 
+	url = "http://code.ucl.ac.be/MatthieuDubois/r_code", 
+	textVersion = paste("Dubois, M. (2008)", "Singlecase: A package for single case statistics in neuropsychology", "(Software: R Package, singlecase, version 0.1)") 
+) 
+	 
